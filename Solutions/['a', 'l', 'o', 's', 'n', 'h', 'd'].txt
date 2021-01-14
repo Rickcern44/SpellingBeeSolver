@@ -1,0 +1,31 @@
+The Center letter is: d
+
+The remaining letters are: ['a', 'l', 'o', 's', 'n', 'h', 'd']
+
+The total number of possibilities is: 26
+adds
+adds
+adsl
+dallas
+dana
+dans
+dash
+doll
+dolls
+donald
+donna
+hand
+hands
+hold
+holds
+honda
+hood
+land
+lands
+load
+loads
+london
+odds
+salad
+sand
+sold

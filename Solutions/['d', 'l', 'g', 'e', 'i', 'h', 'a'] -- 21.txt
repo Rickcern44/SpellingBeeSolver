@@ -1,0 +1,26 @@
+The Center letter is: a
+
+The remaining letters are: ['d', 'l', 'g', 'e', 'i', 'h', 'a']
+
+The total number of possibilities is: 21
+added
+aged
+ahead
+allah
+allied
+dale
+dead
+deal
+dial
+eagle
+gage
+gale
+glad
+hall
+head
+headed
+idea
+ideal
+laid
+lead
+legal
